@@ -39,7 +39,7 @@ nav ul {
 article {
 	text-align: center;
     float: left;
-    padding: 10px;
+    padding: 50px;
     width: 80%;
     background-color: #FFFFFF;
     height: 500px; /* only for demonstration, should be removed */
@@ -85,7 +85,7 @@ footer {
   
   <article>
     <h1>ทำไมต้อง Run</h1>
-	<img src= "img/silpa.png" width="120" height="120">
+	<img src= "img/tudduu.png" width="400" height="200"><br><br>
     <p>กขคง กขคงกขคงกขคงกขคงกขคงกขคงกขคงกขคงกขคง  กขคงกขคงกขคงกขคง  กขคงกขคงกขคงกขคง   </p>
     <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
   </article>
